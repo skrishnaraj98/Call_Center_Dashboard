@@ -24,8 +24,11 @@ Most reps receive 4★ and 5★ ratings, showing overall positive customer exper
 ## 🤔 What This Dashboard Helps Answer
 
 1️⃣Which reps are driving the most sales and handling the most calls?
+
 2️⃣What days or months are busiest for the call center?
+
 3️⃣Are there patterns in customer behavior by city or gender?
+
 4️⃣How do customer ratings vary across reps?
 
 ### 🛠️ Tools & Techniques Used
